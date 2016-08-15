@@ -32,7 +32,7 @@ $cfg['Servers'][$i]['host'] = '127.0.0.1';
 $cfg['Servers'][$i]['connect_type'] = 'tcp';
 $cfg['Servers'][$i]['compress'] = true;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
-$cfg['Servers'][$i]['password'] = 'F8=z-.q5aRAd';
+$cfg['Servers'][$i]['password'] = '>uRh?Z8R/,n?';
 /*
  * phpMyAdmin configuration storage settings.
  */
